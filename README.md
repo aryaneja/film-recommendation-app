@@ -6,7 +6,12 @@ I am creating this application to collect film recommendations. Users will enter
 ## What would the architecture of this app look like?
 
 ## Key Bookmarks
+### Architectural bookmarks
 https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/authenticate-react-app-users-cognito-amplify-ui.html
+
+### Development bookmarks
+https://www.alexhyett.com/github-actions-deploy-to-s3/
+
 
 ---
 _React Native Part_
