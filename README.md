@@ -2,6 +2,10 @@
 I am creating this application to collect film recommendations. Users will enter their desired films and then I will use backend AWS services to create film recommendations.
 
 ## What does this application do?
+
+## What would the architecture of this app look like?
+
+## Key Bookmarks
 https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/authenticate-react-app-users-cognito-amplify-ui.html
 
 ---
