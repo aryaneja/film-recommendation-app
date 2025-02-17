@@ -1,3 +1,12 @@
+# Film Recommender
+I am creating this application to collect film recommendations. Users will enter their desired films and then I will use backend AWS services to create film recommendations.
+
+## What does this application do?
+https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/authenticate-react-app-users-cognito-amplify-ui.html
+
+---
+_React Native Part_
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
